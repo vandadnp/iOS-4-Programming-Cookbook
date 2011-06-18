@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CameraAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 672}}";
+			sepNavSelRange = "{0, 597}";
+			sepNavVisRange = "{0, 597}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CameraAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1951, 1400}}";
+			sepNavSelRange = "{1021, 0}";
+			sepNavVisRange = "{0, 1617}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Camera */ = {
+		activeExec = 0;
+		executables = (
+			8230347611F717AC00BCA720 /* Camera */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8230347611F717AC00BCA720 /* Camera */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Camera */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Camera */,
+		);
+		codeSenseManager = 8230348011F717B300BCA720 /* Code sense */;
+		executables = (
+			8230347611F717AC00BCA720 /* Camera */,
+			8217340811F8C8E600A37030 /* Camera iPad SDK */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					119,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					79,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316994627;
+			PBXWorkspaceStateSaveDate = 316994627;
+		};
+		perUserProjectItems = {
+			823034A611F7185600BCA720 = 823034A611F7185600BCA720 /* PBXTextBookmark */;
+			823034DC11F71F9300BCA720 = 823034DC11F71F9300BCA720 /* PBXTextBookmark */;
+			8255679C1253918F009D4E13 = 8255679C1253918F009D4E13 /* PlistBookmark */;
+			825A865A12E4F0F700EEFA25 = 825A865A12E4F0F700EEFA25 /* PBXTextBookmark */;
+			8276D58D12976EB4007C8709 = 8276D58D12976EB4007C8709 /* PBXTextBookmark */;
+			827CD3AB125D331100F4BCF5 = 827CD3AB125D331100F4BCF5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8230347F11F717B300BCA720 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	821733F711F8C8E600A37030 /* Camera iPad SDK */ = {
+		activeExec = 0;
+		executables = (
+			8217340811F8C8E600A37030 /* Camera iPad SDK */,
+		);
+	};
+	8217340811F8C8E600A37030 /* Camera iPad SDK */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Camera iPad SDK";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8230347611F717AC00BCA720 /* Camera */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Camera;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8230347A11F717B300BCA720 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 672}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 725}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	8230347B11F717B300BCA720 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {362, 5222}}";
+			sepNavSelRange = "{5564, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{49, 78}, {1391, 800}}";
+		};
+	};
+	8230347F11F717B300BCA720 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8230348011F717B300BCA720 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	823034A611F7185600BCA720 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CameraAppDelegate.m */;
+		name = "CameraAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	823034DC11F71F9300BCA720 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8230347A11F717B300BCA720 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 108;
+		vrLoc = 0;
+	};
+	8255679C1253918F009D4E13 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Camera-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 11/Editing Videos on an iOS Device/Camera-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	825A865A12E4F0F700EEFA25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8230347B11F717B300BCA720 /* RootViewController.m */;
+		name = "RootViewController.m: 202";
+		rLen = 0;
+		rLoc = 5564;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8276D58D12976EB4007C8709 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8230347B11F717B300BCA720 /* RootViewController.m */;
+		name = "RootViewController.m: 202";
+		rLen = 0;
+		rLoc = 5564;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	827CD3AB125D331100F4BCF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8230347B11F717B300BCA720 /* RootViewController.m */;
+		name = "RootViewController.m: 202";
+		rLen = 0;
+		rLoc = 5564;
+		rType = 0;
+		vrLen = 31;
+		vrLoc = 149;
+	};
+	8D1107310486CEB800E47090 /* Camera-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 862}";
+			sepNavWindowFrame = "{{61, 135}, {1179, 696}}";
+		};
+	};
+}

@@ -1,0 +1,204 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TablesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 336}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TablesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1204}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 301}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Tables */ = {
+		activeExec = 0;
+		executables = (
+			82B970E011EBB45400880545 /* Tables */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 210}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 233}";
+			sepNavWindowFrame = "{{15, 177}, {1179, 696}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 854}}";
+			sepNavSelRange = "{682, 0}";
+			sepNavVisRange = "{145, 958}";
+			sepNavWindowFrame = "{{15, 177}, {1179, 696}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82B970E011EBB45400880545 /* Tables */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tables */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Tables */,
+		);
+		codeSenseManager = 82B970F611EBB45C00880545 /* Code sense */;
+		executables = (
+			82B970E011EBB45400880545 /* Tables */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316995426;
+			PBXWorkspaceStateSaveDate = 316995426;
+		};
+		perUserProjectItems = {
+			8256E263125A15E30053A6FD = 8256E263125A15E30053A6FD /* PBXTextBookmark */;
+			8256E264125A15E30053A6FD = 8256E264125A15E30053A6FD /* PBXTextBookmark */;
+			82B970EB11EBB45C00880545 = 82B970EB11EBB45C00880545 /* PBXTextBookmark */;
+			82BD7EB112E4F2B1008A0658 = 82BD7EB112E4F2B1008A0658 /* PBXTextBookmark */;
+			82C425971216F3E8000BF59E = 82C425971216F3E8000BF59E /* PlistBookmark */;
+			82C425981216F3E8000BF59E = 82C425981216F3E8000BF59E /* PBXTextBookmark */;
+			82C425991216F3E8000BF59E = 82C425991216F3E8000BF59E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82B970F511EBB45C00880545 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8256E263125A15E30053A6FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	8256E264125A15E30053A6FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TablesAppDelegate.h */;
+		name = "TablesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	82B970E011EBB45400880545 /* Tables */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tables;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82B970EB11EBB45C00880545 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	82B970F511EBB45C00880545 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82B970F611EBB45C00880545 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82BD7EB112E4F2B1008A0658 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TablesAppDelegate.h */;
+		name = "TablesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	82C425971216F3E8000BF59E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Tables-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 4/Creating a Table View using code/Tables-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	82C425981216F3E8000BF59E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TablesAppDelegate.m */;
+		name = "TablesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	82C425991216F3E8000BF59E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TablesAppDelegate.h */;
+		name = "TablesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,22 @@
+//
+//  Manager.h
+//  Data
+//
+//  Created by Vandad Nahavandipoor on 11-03-30.
+//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+
+@class Employee;
+
+@interface Manager : NSManagedObject {
+@private
+}
+@property (nonatomic, retain) NSString * firstName;
+@property (nonatomic, retain) NSNumber * age;
+@property (nonatomic, retain) NSString * lastName;
+@property (nonatomic, retain) NSSet* FKManagerToEmployees;
+
+@end

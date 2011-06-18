@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AudioAndVideoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {516, 294}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 282}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AudioAndVideoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {264, 1372}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AudioAndVideo */ = {
+		activeExec = 0;
+		executables = (
+			82DEE66911E3C974004DD748 /* AudioAndVideo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AudioAndVideoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {348, 434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{27, 90}, {1409, 769}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AudioAndVideoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1350, 3920}}";
+			sepNavSelRange = "{3930, 0}";
+			sepNavVisRange = "{3159, 1658}";
+			sepNavWindowFrame = "{{57, -190}, {1409, 769}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82DEE66911E3C974004DD748 /* AudioAndVideo */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AudioAndVideo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AudioAndVideo */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 82DEE67311E3C975004DD748 /* Code sense */;
+		executables = (
+			82DEE66911E3C974004DD748 /* AudioAndVideo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					86,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					46,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316994621;
+			PBXWorkspaceStateSaveDate = 316994621;
+		};
+		perUserProjectItems = {
+			82553AD912E4F0BE00C9DE0A = 82553AD912E4F0BE00C9DE0A /* PBXTextBookmark */;
+			8264278D12D3A25E00A1C7C4 = 8264278D12D3A25E00A1C7C4 /* PBXBookmark */;
+			8264279712D3C5E500A1C7C4 = 8264279712D3C5E500A1C7C4 /* PBXTextBookmark */;
+			8264279812D3C5E500A1C7C4 = 8264279812D3C5E500A1C7C4 /* PBXTextBookmark */;
+			8272062C121C73AE00F36E9D = 8272062C121C73AE00F36E9D /* PBXTextBookmark */;
+			82C14E9811F4590F0074A05B = 82C14E9811F4590F0074A05B /* PBXTextBookmark */;
+			82C14EA311F4594A0074A05B = 82C14EA311F4594A0074A05B /* PBXTextBookmark */;
+			82CBCFA41297665D00CEC866 = 82CBCFA41297665D00CEC866 /* PBXTextBookmark */;
+			82DE9AC812E4F37F00100D38 = 82DE9AC812E4F37F00100D38 /* PBXTextBookmark */;
+			82FC344D121C648B002EA566 = 82FC344D121C648B002EA566 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82DEE67211E3C975004DD748 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	82553AD912E4F0BE00C9DE0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AudioAndVideoAppDelegate.m */;
+		name = "AudioAndVideoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8264278D12D3A25E00A1C7C4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AudioAndVideoViewController.m */;
+	};
+	8264279712D3C5E500A1C7C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AudioAndVideoAppDelegate.m */;
+		name = "AudioAndVideoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8264279812D3C5E500A1C7C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AudioAndVideoViewController.m */;
+		name = "AudioAndVideoViewController.m: 148";
+		rLen = 0;
+		rLoc = 3918;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 3086;
+	};
+	8272062C121C73AE00F36E9D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AudioAndVideoViewController.h */;
+		name = "AudioAndVideoViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 131;
+		vrLoc = 58;
+	};
+	82C14E8311F458B90074A05B /* SecondViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {376, 238}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	82C14E8411F458B90074A05B /* SecondViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 826}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{192, 1266}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	82C14E9811F4590F0074A05B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AudioAndVideoAppDelegate.h */;
+		name = "AudioAndVideoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	82C14EA311F4594A0074A05B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82C14E8311F458B90074A05B /* SecondViewController.h */;
+		name = "SecondViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	82CBCFA41297665D00CEC866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AudioAndVideoAppDelegate.m */;
+		name = "AudioAndVideoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	82DE9AC812E4F37F00100D38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AudioAndVideoAppDelegate.m */;
+		name = "AudioAndVideoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	82DEE66911E3C974004DD748 /* AudioAndVideo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AudioAndVideo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	82DEE67211E3C975004DD748 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82DEE67311E3C975004DD748 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82FC344D121C648B002EA566 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AudioAndVideoViewController.m */;
+		name = "AudioAndVideoViewController.m: 232";
+		rLen = 0;
+		rLoc = 6475;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 625;
+	};
+}

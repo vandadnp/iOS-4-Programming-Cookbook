@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OperationsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {351, 420}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{143, 273}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OperationsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {453, 812}}";
+			sepNavSelRange = "{399, 29}";
+			sepNavVisRange = "{251, 493}";
+			sepNavWindowFrame = "{{15, 177}, {1179, 696}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Operations */ = {
+		activeExec = 0;
+		executables = (
+			82BE844E122A69C100343E81 /* Operations */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82BE844E122A69C100343E81 /* Operations */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Operations */;
+		codeSenseManager = 82BE845E122A69C500343E81 /* Code sense */;
+		executables = (
+			82BE844E122A69C100343E81 /* Operations */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					173,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316995353;
+			PBXWorkspaceStateSaveDate = 316995353;
+		};
+		perUserProjectItems = {
+			820024CB12E4F2600096A41A = 820024CB12E4F2600096A41A /* PBXTextBookmark */;
+			827CD1A9125D228900F4BCF5 = 827CD1A9125D228900F4BCF5 /* PBXTextBookmark */;
+			827CD1AA125D228900F4BCF5 = 827CD1AA125D228900F4BCF5 /* PBXBookmark */;
+			827CD1B6125D22BF00F4BCF5 = 827CD1B6125D22BF00F4BCF5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82BE845D122A69C500343E81 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	820024CB12E4F2600096A41A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OperationsAppDelegate.m */;
+		name = "OperationsAppDelegate.m: 21";
+		rLen = 29;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 264;
+	};
+	827CD1A9125D228900F4BCF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OperationsAppDelegate.h */;
+		name = "OperationsAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 156;
+	};
+	827CD1AA125D228900F4BCF5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OperationsAppDelegate.m */;
+	};
+	827CD1B6125D22BF00F4BCF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OperationsAppDelegate.m */;
+		name = "OperationsAppDelegate.m: 21";
+		rLen = 29;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 264;
+	};
+	82BE844E122A69C100343E81 /* Operations */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Operations;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82BE845D122A69C500343E81 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82BE845E122A69C500343E81 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

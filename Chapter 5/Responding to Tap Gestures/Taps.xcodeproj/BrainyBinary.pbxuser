@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SwipesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {833, 322}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 315}";
+			sepNavWindowFrame = "{{57, 62}, {1327, 816}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SwipesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {833, 560}}";
+			sepNavSelRange = "{594, 0}";
+			sepNavVisRange = "{287, 545}";
+			sepNavWindowFrame = "{{57, 62}, {1327, 816}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Taps */ = {
+		activeExec = 0;
+		executables = (
+			8235265711A50F99001F5C7E /* Taps */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8235265711A50F99001F5C7E /* Taps */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Taps */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Taps */,
+		);
+		codeSenseManager = 8235266711A50F9B001F5C7E /* Code sense */;
+		executables = (
+			8235265711A50F99001F5C7E /* Taps */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					543,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					655,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					615,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316995426;
+			PBXWorkspaceStateSaveDate = 316995426;
+		};
+		perUserProjectItems = {
+			8246CC0E11C5020F005E0C70 = 8246CC0E11C5020F005E0C70 /* PlistBookmark */;
+			8246CC0F11C5020F005E0C70 = 8246CC0F11C5020F005E0C70 /* PBXTextBookmark */;
+			8246CC1011C5020F005E0C70 = 8246CC1011C5020F005E0C70 /* PBXTextBookmark */;
+			825A9A0A12E4F3CD0024C4D4 = 825A9A0A12E4F3CD0024C4D4 /* PBXTextBookmark */;
+			8262165B11C3BDB80086F350 = 8262165B11C3BDB80086F350 /* PBXTextBookmark */;
+			826C10BD125A43CB00A182F8 = 826C10BD125A43CB00A182F8 /* PBXTextBookmark */;
+			826C10BE125A43CB00A182F8 = 826C10BE125A43CB00A182F8 /* PBXTextBookmark */;
+			826C10E3125A443F00A182F8 = 826C10E3125A443F00A182F8 /* PBXTextBookmark */;
+			82BD7EF712E4F2BD008A0658 = 82BD7EF712E4F2BD008A0658 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8235266611A50F9B001F5C7E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1268, 688}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 364}";
+			sepNavWindowFrame = "{{15, 62}, {1327, 816}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Taps_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 180}}";
+			sepNavSelRange = "{49, 6}";
+			sepNavVisRange = "{0, 181}";
+			sepNavWindowFrame = "{{15, 62}, {1327, 816}}";
+		};
+	};
+	8235265711A50F99001F5C7E /* Taps */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Taps;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8235266611A50F9B001F5C7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8235266711A50F9B001F5C7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8246CC0E11C5020F005E0C70 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Taps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 6/Responding to tap gestures/Taps-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8246CC0F11C5020F005E0C70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Taps_Prefix.pch */;
+		name = "Taps_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 0;
+	};
+	8246CC1011C5020F005E0C70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwipesAppDelegate.h */;
+		name = "SwipesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	825A9A0A12E4F3CD0024C4D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 826F625411A50FBB001CA972 /* RootViewController.m */;
+		name = "RootViewController.m: 96";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8262165B11C3BDB80086F350 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SwipesAppDelegate.m */;
+		name = "SwipesAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 582;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 287;
+	};
+	826C10BD125A43CB00A182F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 826F625311A50FBB001CA972 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 58;
+		vrLoc = 149;
+	};
+	826C10BE125A43CB00A182F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 826F625411A50FBB001CA972 /* RootViewController.m */;
+		name = "RootViewController.m: 95";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 65;
+		vrLoc = 153;
+	};
+	826C10E3125A443F00A182F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 826F625411A50FBB001CA972 /* RootViewController.m */;
+		name = "RootViewController.m: 96";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 65;
+		vrLoc = 153;
+	};
+	826F625311A50FBB001CA972 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {833, 378}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{15, 62}, {1327, 816}}";
+		};
+	};
+	826F625411A50FBB001CA972 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {833, 1386}}";
+			sepNavSelRange = "{2103, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{40, 31}, {1327, 816}}";
+		};
+	};
+	82BD7EF712E4F2BD008A0658 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 826F625411A50FBB001CA972 /* RootViewController.m */;
+		name = "RootViewController.m: 96";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 34;
+		vrLoc = 184;
+	};
+	8D1107310486CEB800E47090 /* Taps-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 62}, {1327, 816}}";
+		};
+	};
+}

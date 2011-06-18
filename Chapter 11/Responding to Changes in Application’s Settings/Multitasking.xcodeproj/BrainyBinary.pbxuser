@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MultitaskingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 350}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 440}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MultitaskingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1274}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{269, 391}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Multitasking */ = {
+		activeExec = 0;
+		executables = (
+			82375CEB11F974E500AA2119 /* Multitasking */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82375CEB11F974E500AA2119 /* Multitasking */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Multitasking */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Multitasking */,
+			82375D3E11F97CB800AA2119 /* Multitasking iPad */,
+		);
+		codeSenseManager = 82375CF511F974E600AA2119 /* Code sense */;
+		executables = (
+			82375CEB11F974E500AA2119 /* Multitasking */,
+			82375D4E11F97CB800AA2119 /* Multitasking iPad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					366,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					326,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316995348;
+			PBXWorkspaceStateSaveDate = 316995348;
+		};
+		perUserProjectItems = {
+			8200243D12E4F2460096A41A = 8200243D12E4F2460096A41A /* PlistBookmark */;
+			827CD094125D1C0300F4BCF5 = 827CD094125D1C0300F4BCF5 /* PlistBookmark */;
+			829C5A3B11FB3AC300DFADBF = 829C5A3B11FB3AC300DFADBF /* PBXTextBookmark */;
+			829C5AA211FB3F1C00DFADBF = 829C5AA211FB3F1C00DFADBF /* PBXTextBookmark */;
+			829C5AB411FB3FF500DFADBF = 829C5AB411FB3FF500DFADBF /* PBXTextBookmark */;
+			829C5AB511FB3FF500DFADBF = 829C5AB511FB3FF500DFADBF /* PlistBookmark */;
+			829C5ABB11FB416700DFADBF = 829C5ABB11FB416700DFADBF /* PlistBookmark */;
+			82F2639E11FB37FB0096CEE6 = 82F2639E11FB37FB0096CEE6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82375CF411F974E600AA2119 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8200243D12E4F2460096A41A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Multitasking-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 11/Responding to Changes in Application’s Settings/Multitasking-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	82375CEB11F974E500AA2119 /* Multitasking */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Multitasking;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82375CF411F974E600AA2119 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82375CF511F974E600AA2119 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82375CFC11F974F400AA2119 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 672}}";
+			sepNavSelRange = "{154, 0}";
+			sepNavVisRange = "{0, 342}";
+			sepNavWindowFrame = "{{15, 73}, {1391, 800}}";
+		};
+	};
+	82375CFD11F974F400AA2119 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 1596}}";
+			sepNavSelRange = "{583, 1521}";
+			sepNavVisRange = "{1181, 1081}";
+			sepNavWindowFrame = "{{19, 62}, {1391, 800}}";
+		};
+	};
+	82375D3E11F97CB800AA2119 /* Multitasking iPad */ = {
+		activeExec = 0;
+		executables = (
+			82375D4E11F97CB800AA2119 /* Multitasking iPad */,
+		);
+	};
+	82375D4E11F97CB800AA2119 /* Multitasking iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Multitasking iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	827CD094125D1C0300F4BCF5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Multitasking-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 12/Responding to Changes in Application’s Settings/Multitasking-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	829C5A3B11FB3AC300DFADBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MultitaskingAppDelegate.m */;
+		name = "MultitaskingAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 269;
+	};
+	829C5AA211FB3F1C00DFADBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82375CFD11F974F400AA2119 /* RootViewController.m */;
+		name = "RootViewController.m: 49";
+		rLen = 0;
+		rLoc = 1180;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 475;
+	};
+	829C5AA411FB3F1C00DFADBF /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 12/Responding to Changes in Application’s Settings/Settings.bundle/Root.plist";
+		sourceTree = "<absolute>";
+	};
+	829C5AB411FB3FF500DFADBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MultitaskingAppDelegate.h */;
+		name = "MultitaskingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	829C5AB511FB3FF500DFADBF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 829C5AA411FB3F1C00DFADBF /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 12/Responding to Changes in Application’s Settings/Settings.bundle/Root.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	829C5ABB11FB416700DFADBF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Multitasking-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/BrainyBinary/Desktop/Development/Cookbook/Chapter 12/Responding to Changes in Application’s Settings/Multitasking-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	82F2639E11FB37FB0096CEE6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82375CFC11F974F400AA2119 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+}

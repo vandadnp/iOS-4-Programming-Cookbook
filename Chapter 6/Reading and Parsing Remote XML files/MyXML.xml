@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parent>
+  <child name="James">
+    <age>10</age>
+    <sex>male</sex>
+  </child>
+</parent>

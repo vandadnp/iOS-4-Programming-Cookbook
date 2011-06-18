@@ -1,0 +1,19 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define EVENT_KIT_IS_AVAILABLE FALSE
+
+#ifdef __IPHONE_4_0
+  #if (__IPHONE_OS_VERSION_MAX_ALLOWED >= __IPHONE_4_0)
+    #ifdef EVENT_KIT_IS_AVAILABLE
+      #undef EVENT_KIT_IS_AVAILABLE
+    #endif
+    #define EVENT_KIT_IS_AVAILABLE TRUE
+  #endif
+#endif

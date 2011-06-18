@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OperationsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {351, 462}}";
+			sepNavSelRange = "{505, 0}";
+			sepNavVisRange = "{168, 281}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OperationsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1951, 1512}}";
+			sepNavSelRange = "{314, 955}";
+			sepNavVisRange = "{958, 1466}";
+			sepNavWindowFrame = "{{15, 177}, {1179, 696}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Operations */ = {
+		activeExec = 0;
+		executables = (
+			82BE844E122A69C100343E81 /* Operations */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82BE844E122A69C100343E81 /* Operations */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Operations */;
+		codeSenseManager = 82BE845E122A69C500343E81 /* Code sense */;
+		executables = (
+			82BE844E122A69C100343E81 /* Operations */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					61,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					173,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					133,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316995354;
+			PBXWorkspaceStateSaveDate = 316995354;
+		};
+		perUserProjectItems = {
+			820024C112E4F25E0096A41A = 820024C112E4F25E0096A41A /* PBXTextBookmark */;
+			8259FE23122B13C0001AD8ED = 8259FE23122B13C0001AD8ED /* PBXTextBookmark */;
+			827CD19E125D227200F4BCF5 = 827CD19E125D227200F4BCF5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82BE845D122A69C500343E81 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	820024C112E4F25E0096A41A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OperationsAppDelegate.h */;
+		name = "OperationsAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 180;
+	};
+	8259FE23122B13C0001AD8ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OperationsAppDelegate.h */;
+		name = "OperationsAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 156;
+	};
+	827CD19E125D227200F4BCF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OperationsAppDelegate.h */;
+		name = "OperationsAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 156;
+	};
+	82BE844E122A69C100343E81 /* Operations */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Operations;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82BE845D122A69C500343E81 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82BE845E122A69C500343E81 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
